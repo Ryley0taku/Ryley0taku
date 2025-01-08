@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryley0taku
 - 👀 I’m interested in video games, AI, and data bases
-- 🌱 I’m currently learning Computer Science, Psychology, and Economics A-levels and CS Harvard Online Course
+- 🌱 I’m currently learning Computer Science, Psychology, and Business A-levels and CS Harvard Online Course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
